@@ -1,9 +1,9 @@
-console.log('Hello World')
-console.log("wad Up")
-console.log("wad Up")
-console.log("wad Up")
-console.log("wad Up")
-console.log("wad Up")
-console.log("wad Up")
-console.log("wad Up")
-console.log("wad Up")
+console.log('Hello World');
+console.log('What is up, my homie');
+console.log('What is up, my homie');
+console.log('What is up, my homie');
+console.log('What is up, my homie');
+console.log('What is up, my homie');
+console.log('What is up, my homie');
+console.log('What is up, my homie');
+console.log('What is up, my homie');
